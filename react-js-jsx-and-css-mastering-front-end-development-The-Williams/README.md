@@ -59,8 +59,8 @@ src/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-week3-task-manager.git
-cd react-week3-task-manager
+git clone https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-The-Williams/
+cd react-js-jsx-and-css-mastering-front-end-development-The-Williams
 ```
 
 ### 2️⃣ Install Dependencies
@@ -190,3 +190,8 @@ Update the button in `Navbar.jsx`.
 | ---------- | --------- |
 | 🌞         | 🌙        |
 
+My final Task Manager link after deployment: https://taskman-phi-kohl.vercel.app/
+
+Author
+The-Williams
+edgeriowilliams@gmail.com

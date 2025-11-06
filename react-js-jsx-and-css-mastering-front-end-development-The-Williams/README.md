@@ -196,10 +196,3 @@ My final Task Manager link after deployment: https://taskman-phi-kohl.vercel.app
 
 The-Williams
 edgeriowilliams@gmail.com
-
-
-My final Task Manager link after deployment: https://taskman-phi-kohl.vercel.app/
-
-Author
-The-Williams
-edgeriowilliams@gmail.com

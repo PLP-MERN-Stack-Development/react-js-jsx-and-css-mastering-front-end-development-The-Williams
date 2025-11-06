@@ -184,11 +184,19 @@ Update the button in `Navbar.jsx`.
 
 ---
 
-## 📸 Preview
+## 📸 Preview ![Screenshot ](C:\Users\Edger%20A\OneDrive\Documents\Screenshot%20.png)
 
 | Light Mode | Dark Mode |
 | ---------- | --------- |
 | 🌞         | 🌙        |
+
+My final Task Manager link after deployment: https://taskman-phi-kohl.vercel.app/
+
+# Author
+
+The-Williams
+edgeriowilliams@gmail.com
+
 
 My final Task Manager link after deployment: https://taskman-phi-kohl.vercel.app/
 
